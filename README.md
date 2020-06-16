@@ -54,7 +54,7 @@ La diferencia de potencial a la que está sometida una resistencia es igual al v
 
 # 9. Cronograma
 
-![](https://github.com/erickfi/Laboratorio-3/blob/master/img/cronograma-3.PNG)
+![](img/Cronograma-Practica-3.PNG)
 
 # 10. Bibliografía
 
