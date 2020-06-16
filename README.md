@@ -46,7 +46,7 @@ La diferencia de potencial a la que está sometida una resistencia es igual al v
 
 - Usando la *Ley de Corrientes de Kirchhoff* y la *Ley de Ohm* se realiza el análisis de las corrientes en un nodo y se la puede expresar como tensión.
 - El voltaje de un elemento en un circuito será la diferencia de tensión entre los nodos a los que se conecta el elemento.
-- Al observar la tabal se puede evidenciar que el error es de 0%, por lo tanto, no hay pérdida de energía en los nodos.
+- Al observar la tabla se puede evidenciar que el error es de 0%, por lo tanto, no hay pérdida de energía en los nodos.
 
 # 8. Recomendaciones
 
