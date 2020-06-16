@@ -26,6 +26,9 @@ La diferencia de potencial a la que está sometida una resistencia es igual al v
 
 # 4. Diagramas
 
+- Circuito para el análisis de nodos
+![](https://github.com/erickfi/Laboratorio-3/blob/master/img/Diagrama-3.PNG)
+
 
 
 
