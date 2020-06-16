@@ -38,10 +38,33 @@ La diferencia de potencial a la que está sometida una resistencia es igual al v
 
 | Nodo | Resultados Analíticos | Resultados Simulados | Error |
 | ------------- | ------------- |------------- |------------- |
-|1 | 2.82 [V] | 2.82 [V]| 0% |
-| 2 | 4.8 [V] | 4.8 [V] | 0% |
-| 2-1 | 1.98 [V] | 1.98 [V] | 0% |
+|1 | 2.82 V | 2.82 V| 0% |
+| 2 | 4.8 V | 4.8 V | 0% |
+| 2-1 | 1.98 V | 1.98 V | 0% |
 
+# 7. Conclusiones
+
+- Usando la *Ley de Corrientes de Kirchhoff* y la *Ley de Ohm* se realiza el análisis de las corrientes en un nodo y se la puede expresar como tensión.
+- El voltaje de un elemento en un circuito será la diferencia de tensión entre los nodos a los que se conecta el elemento.
+- Al observar la tabal se puede evidenciar que el error es de 0%, por lo tanto, no hay pérdida de energía en los nodos.
+
+# 8. Recomendaciones
+
+- Elegir a la linea de neutro como el nodo de referencia.
+
+# 9. Cronograma
+
+![](https://github.com/erickfi/Laboratorio-3/blob/master/img/cronograma-3.PNG)
+
+# 10. Bibliografía
+
+- https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-node-voltage-method
+- http://panamahitek.com/ley-de-las-corrientes-de-kirchhoff-metodo-de-nodos/
+- https://mielectronicafacil.com/analisis-de-circuitos/teorema-de-nodos/#Dibujar-trayectoria-de-las-corrientes
+
+# 11. Anexos
+
+- https://github.com/erickfi/Laboratorio-3/blob/master/C%C3%A1lculos/C%C3%A1lculos.pdf
 
 
 
