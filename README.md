@@ -14,4 +14,21 @@ Por otro lado, el voltaje realiza el mismo recorrido que la corriente, de aqui s
 # 2. Objetivos
 - Comprobar experimentalmente el análisis de nodos.
 - Analizar e identificar los nodos en los que el voltaje será diferente al de la fuente.
-- 
+- Comprender y explicar la forma de medir la corriente en un nodo.
+
+# 3. Marco Teórico 
+
+Un nodo es un punto de un circuito donde están conectados dos o más elementos, por el que circula corriente y por ende voltajes, la *Ley de Corriente de Kirchhoff* permite expresar corrientes en forma de voltaje, empleando la *Ley de Ohm* ya que si tenemos un elemento como un resistor, la tensión del elemento será igual a la diferencia de las tensiones de sus nodos.
+
+Para determinar las tensiones en los nodos, primeramente se debe seleccionar un nodo de referencia, al cual se le asigna una tensión V=0, por lo general este nodo de referencia será el nuetro, negativo, del circuito, después se analiza los nodos restantes y se debe aplicar la *Ley de Corrientes de Kirchhoff* para cada uno de los n - 1 nodos, despúes se usa la *Ley de Ohm* para relacionar las corrientes en forma de voltaje.
+
+La diferencia de potencial a la que está sometida una resistencia es igual al voltaje antes de la resistencia menos el voltaje después de la resistencia. Con esto construiremos nuestras ecuaciones para cada nodo. Necesitamos primero escoger el sentido de las corrientes tomando en cuenta que cuando hay una fuente de voltaje la corriente sale del positivo de la fuente. Si no hay una fuente se asume que todas las corrientes fluyen de izquierda a derecha y de arriba hacia abajo.
+
+# 4. Diagramas
+
+
+
+
+
+
+
