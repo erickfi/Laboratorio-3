@@ -34,6 +34,16 @@ La diferencia de potencial a la que está sometida una resistencia es igual al v
 
 ![](https://github.com/erickfi/Laboratorio-3/blob/master/img/materiales-3.PNG)
 
+# 6. Tabla de resultados
+
+| Nodo | Resultados Analíticos | Resultados Simulados | Error |
+| ------------- | ------------- |------------- |------------- |
+|1 | 2.82 [V] | 2.82 [V]| 0% |
+| 2 | 4.8 [V] | 4.8 [V] | 0% |
+| 2-1 | 1.98 [V] | 1.98 [V] | 0% |
+
+
+
 
 
 
