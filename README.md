@@ -47,19 +47,20 @@ La diferencia de potencial a la que está sometida una resistencia es igual al v
 
 | Nodo | Resultados Analíticos | Resultados Simulados | Error |
 | ------------- | ------------- |------------- |------------- |
-|1 | 2.82 V | 2.82 V| 0% |
+| 1 | 2.82 V | 2.82 V | 0% |
 | 2 | 4.8 V | 4.8 V | 0% |
 | 2-1 | 1.98 V | 1.98 V | 0% |
 
 # 7. Conclusiones
 
-- Usando la *Ley de Corrientes de Kirchhoff* y la *Ley de Ohm* se realiza el análisis de las corrientes en un nodo y se la puede expresar como tensión.
+- Usando la *Ley de Corrientes de Kirchhoff* y la *Ley de Ohm* se realiza el análisis de las corrientes en un nodo y con eso se  puede encontrar la tensión.
 - El voltaje de un elemento en un circuito será la diferencia de tensión entre los nodos a los que se conecta el elemento.
 - Al observar la tabla se puede evidenciar que el error es de 0%, por lo tanto, no hay pérdida de energía en los nodos.
+-Las resistencias en este son las que la disipacion de voltaje, por lo cual los cambios de voltaje se dan en los nodos que no estan conectados a la fuente o a tierra.
 
 # 8. Recomendaciones
 
-- Elegir a la linea de neutro como el nodo de referencia.
+- Para medir la tension un nodo, se debe colocar el lado positivo del voltímetro en el mismo y el negativo en tierra ya que el voltaje en esta es 0 y por lo tanto la caída de voltaje es el valor de tensión en ese nodo.
 
 # 9. Cronograma
 
