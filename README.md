@@ -30,6 +30,15 @@ La diferencia de potencial a la que está sometida una resistencia es igual al v
 
 ![](https://github.com/erickfi/Laboratorio-3/blob/master/img/Diagrama-3.PNG)
 
+- Identificación de corrientes y nodos 
+
+![](https://github.com/erickfi/Laboratorio-3/blob/master/img/Diagrama-nodos-3.png)
+
+- Diagrama en tinkercad 
+
+![](https://github.com/erickfi/Laboratorio-3/blob/master/img/Tinkercad-3.png)
+
+
 # 5. Lista de componentes
 
 ![](https://github.com/erickfi/Laboratorio-3/blob/master/img/materiales-3.PNG)
