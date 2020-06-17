@@ -53,6 +53,7 @@ La diferencia de potencial a la que está sometida una resistencia es igual al v
 
 # 7. Conclusiones
 
+- En los tres nodos identificados, las corrientes obtenidas son 2.82 V, 4.8 V, respectivamente para los nodos 1 y 2, mientras que 1.98 para la resistencia que se encuntra entre dichos nodos, la cuál podemos considerar como una fuente dependiente, al analizar como supernodo a la malla 2.
 - Usando la *Ley de Corrientes de Kirchhoff* y la *Ley de Ohm* se realiza el análisis de las corrientes en un nodo y con eso se  puede encontrar la tensión.
 - El voltaje de un elemento en un circuito será la diferencia de tensión entre los nodos a los que se conecta el elemento.
 - Al observar la tabla se puede evidenciar que el error es de 0%, por lo tanto, no hay pérdida de energía en los nodos.
